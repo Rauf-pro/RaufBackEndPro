@@ -166,5 +166,9 @@ C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\bin\Debug\netco
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ViewImports.cshtml.g.cs
-C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Shared\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Create.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs

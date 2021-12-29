@@ -26,8 +26,22 @@ using BackEndProje.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.DATA;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"23c1309649f92e719beac9db2f10a5481f24fafa", @"/Views/ListingsDetail2/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de20c9149c6d50856e8850a615d5964b3b4c0883", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6738c8df3a648101fe069857e4c884908f28a1a1", @"/Views/_ViewImports.cshtml")]
     public class Views_ListingsDetail2_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("value", "1", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -288,7 +302,7 @@ using BackEndProje.Models;
                                 <div class=""form-group"">
                                     <select class=""form-control form-control-alternative custom-select"" id=""exampleFormControlSelect1"">
                                         ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa21580", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa21980", async() => {
                 WriteLiteral("Guest");
             }
             );
@@ -305,7 +319,7 @@ using BackEndProje.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa22889", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa23289", async() => {
                 WriteLiteral("One");
             }
             );
@@ -321,7 +335,7 @@ using BackEndProje.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa24086", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa24486", async() => {
                 WriteLiteral("Two");
             }
             );
@@ -337,7 +351,7 @@ using BackEndProje.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa25283", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa25683", async() => {
                 WriteLiteral("Three");
             }
             );
@@ -353,7 +367,7 @@ using BackEndProje.Models;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n                                        ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa26482", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("option", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "23c1309649f92e719beac9db2f10a5481f24fafa26882", async() => {
                 WriteLiteral("Four");
             }
             );

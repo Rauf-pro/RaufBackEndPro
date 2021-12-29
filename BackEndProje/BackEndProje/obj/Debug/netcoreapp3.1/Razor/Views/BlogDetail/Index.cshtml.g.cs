@@ -26,8 +26,22 @@ using BackEndProje.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.DATA;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a82347801d2ae8508c5386a0e6cc30e9b8a8e504", @"/Views/BlogDetail/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de20c9149c6d50856e8850a615d5964b3b4c0883", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6738c8df3a648101fe069857e4c884908f28a1a1", @"/Views/_ViewImports.cshtml")]
     public class Views_BlogDetail_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("id", new global::Microsoft.AspNetCore.Html.HtmlString("add-comment"), global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -203,7 +217,7 @@ using BackEndProje.Models;
                             <h3 class=""listing-desc-headline mb-4"">Add Review</h3>
                             <!-- Review Comment -->
                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a82347801d2ae8508c5386a0e6cc30e9b8a8e50413727", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "a82347801d2ae8508c5386a0e6cc30e9b8a8e50414127", async() => {
                 WriteLiteral(@"
                                 <fieldset>
                                     <div class=""row"">

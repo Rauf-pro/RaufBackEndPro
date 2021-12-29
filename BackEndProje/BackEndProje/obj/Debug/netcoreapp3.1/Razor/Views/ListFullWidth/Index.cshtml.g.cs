@@ -26,8 +26,22 @@ using BackEndProje.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.DATA;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ff8ebec0b735739ea08843eaeb01203df1dd4d91", @"/Views/ListFullWidth/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de20c9149c6d50856e8850a615d5964b3b4c0883", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6738c8df3a648101fe069857e4c884908f28a1a1", @"/Views/_ViewImports.cshtml")]
     public class Views_ListFullWidth_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-controller", "ListingsDetail2", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -127,7 +141,7 @@ using BackEndProje.Models;
                                         <div class=""listing-item-inner"">
                                             <!-- <DirectlistRating [rate]=""list.rating""></DirectlistRating> -->
                                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d917153", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d917553", async() => {
                 WriteLiteral("\r\n                                                <h3>Tom House</h3>\r\n                                            ");
             }
             );
@@ -170,7 +184,7 @@ using BackEndProje.Models;
                                         <div class=""listing-item-inner"">
                                             <!-- <DirectlistRating [rate]=""list.rating""></DirectlistRating> -->
                                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d9110429", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d9110829", async() => {
                 WriteLiteral("\r\n                                                <h3>Burger House</h3>\r\n                                            ");
             }
             );
@@ -213,7 +227,7 @@ using BackEndProje.Models;
                                         <div class=""listing-item-inner"">
                                             <!-- <DirectlistRating [rate]=""list.rating""></DirectlistRating> -->
                                             ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d9113709", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "ff8ebec0b735739ea08843eaeb01203df1dd4d9114109", async() => {
                 WriteLiteral("\r\n                                                <h3>Hotel Govendor</h3>\r\n                                            ");
             }
             );

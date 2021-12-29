@@ -1,4 +1,5 @@
 using BackEndProje.DATA;
+using BackEndProje.ViewModels;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -29,7 +30,7 @@ namespace BackEndProje
         {
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("DListCS")));
-            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+            
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
         }
 
@@ -52,6 +53,7 @@ namespace BackEndProje
             app.UseRouting();
 
             app.UseAuthorization();
+            app.UseAuthentication();
 
             app.UseEndpoints(endpoints =>
             {

@@ -26,8 +26,22 @@ using BackEndProje.Models;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 3 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.ViewModels;
+
+#line default
+#line hidden
+#nullable disable
+#nullable restore
+#line 4 "C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\Views\_ViewImports.cshtml"
+using BackEndProje.DATA;
+
+#line default
+#line hidden
+#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5970c2129143155328dbeafc001891a355662e68", @"/Views/BlogList/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"de20c9149c6d50856e8850a615d5964b3b4c0883", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"6738c8df3a648101fe069857e4c884908f28a1a1", @"/Views/_ViewImports.cshtml")]
     public class Views_BlogList_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
