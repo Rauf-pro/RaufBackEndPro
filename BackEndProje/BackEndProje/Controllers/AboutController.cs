@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BackEndProje.DATA;
+using BackEndProje.ViewModels;
+using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,9 +10,18 @@ namespace BackEndProje.Controllers
 {
     public class AboutController : Controller
     {
+        private readonly AppDbContext _context;
+
+        public AboutController(AppDbContext context)
+        {
+            _context = context;
+        }
         public IActionResult Index()
         {
-            return View();
+            VmAbout model = new VmAbout();
+            model.Banner = _context.Banners.FirstOrDefault(b => b.Page == "About"); 
+
+            return View(model);
         }
     }
 }

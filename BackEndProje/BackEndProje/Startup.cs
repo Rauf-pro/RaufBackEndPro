@@ -30,7 +30,8 @@ namespace BackEndProje
         {
             services.AddControllersWithViews();
             services.AddDbContext<AppDbContext>(option => option.UseSqlServer(Configuration.GetConnectionString("DListCS")));
-            
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
             services.AddIdentity<IdentityUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>();
         }
 
