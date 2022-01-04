@@ -6,9 +6,8 @@ using System.Threading.Tasks;
 
 namespace BackEndProje.ViewModels
 {
-    public class VmAbout:VmLayout
+    public class VmMessage:VmLayout
     {
-        public Banner Banner { get; set; }
-
+        public Message MMessage{ get; set; }
     }
 }

@@ -172,3 +172,15 @@ C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netco
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Banner\Update.cshtml.g.cs
 C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Blog\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\About\Create.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\About\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\About\Update.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Setting\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Setting\Create.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Setting\Update.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Social\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Social\Create.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Social\Update.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContactInfo\Index.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContactInfo\Create.cshtml.g.cs
+C:\Users\User\Desktop\Back-End Project\BackEndProje\BackEndProje\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\ContactInfo\Update.cshtml.g.cs

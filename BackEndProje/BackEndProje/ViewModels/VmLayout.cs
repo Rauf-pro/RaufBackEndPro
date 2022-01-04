@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace BackEndProje.ViewModels
 {
-    public class VmAbout:VmLayout
+    public class VmLayout
     {
+        public Setting Setting { get; set; }
+        public List<Social> Socials { get; set; }
         public Banner Banner { get; set; }
-
     }
 }

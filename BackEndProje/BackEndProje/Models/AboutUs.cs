@@ -15,7 +15,7 @@ namespace BackEndProje.Models
         [MaxLength(250)]
         public string Image { get; set; }
         [NotMapped]
-        IFormFile FileImage { get; set; }
+        public IFormFile FileImage { get; set; }
         [MaxLength(20)]
         public string Icon { get; set; }
         [MaxLength(50)]
